@@ -1,5 +1,4 @@
-I am Kirabo Ibrahim, learning to become skillled in data science, web development and ehtical hacking.
+Kirabo Ibrahim is my alias.
+Invest one hour of your time to read something and in seven years you will become a master of your craft.
 
-Please anyone with open source projects, Iam available to make my contribution, I believe in this way, I will improve my skillset
-
-Looking forward to any challenge ...... 
+That's the definition of me. Nothing more nothing less 
