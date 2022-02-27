@@ -1,6 +1,6 @@
 ## Hello there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/> I am Kirabo Ibrahim.
 
-<img src="https://drive.google.com/file/d/1YCwRqa-Zq_7AHUkDxhOY4FX-E281HWPN/view?usp=sharing" alt="Header Image" />
+<img src="https://www.technojobs.co.uk/info/sites/www.technojobs.co.uk/files/styles/article_image_large/public/AAEAAQAAAAAAAAg8AAAAJGFhMDRkNmMyLTY5M2EtNDgwYS1iMWE4LTk2YThkYTM0ODY4OQ.jpg?itok=E7NDjzXY" alt="Header Image" />
 
 I started to learn coding in 2017 (high school) and I was fascinated by the game mechanics and it all seemed like rocket science. But I didn't stop at wondering,
 luckily enough, I started learning python **(first book: Introduction to Python Programming by Brian Heinold)**. The self taught learning curve is quite steep for hobbysts like me, in that you tend to have wide breadth but less depth. 
