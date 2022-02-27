@@ -1,6 +1,6 @@
 ## Hello there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/> I am Kirabo Ibrahim.
 
-<img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" width="200" height="200" alt="Header Image" />
+<img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" width="800" height="300" alt="Header Image" />
 
 I started to learn coding in 2017 (high school) and I was fascinated by the game mechanics and it all seemed like rocket science. But I didn't stop at wondering,
 luckily enough, I started learning python **(first book: Introduction to Python Programming by Brian Heinold)**. The self taught learning curve is quite steep for hobbysts like me, in that you tend to have wide breadth but less depth. 
