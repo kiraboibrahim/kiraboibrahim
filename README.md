@@ -1,6 +1,6 @@
 ## Hello there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/> I am Kirabo Ibrahim.
 
-<img src="https://www.technojobs.co.uk/info/sites/www.technojobs.co.uk/files/styles/article_image_large/public/AAEAAQAAAAAAAAg8AAAAJGFhMDRkNmMyLTY5M2EtNDgwYS1iMWE4LTk2YThkYTM0ODY4OQ.jpg?itok=E7NDjzXY" alt="Header Image" />
+<img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" alt="Header Image" />
 
 I started to learn coding in 2017 (high school) and I was fascinated by the game mechanics and it all seemed like rocket science. But I didn't stop at wondering,
 luckily enough, I started learning python **(first book: Introduction to Python Programming by Brian Heinold)**. The self taught learning curve is quite steep for hobbysts like me, in that you tend to have wide breadth but less depth. 
@@ -21,7 +21,9 @@ You can check out my projects, if any interests  you, don't forge to give a star
 ## Contact me <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png" width="20" height="20" alt="Contact">
 
 Email: <kiraboibra268@gmail.com>
+
 [LinkedIn](https://www.linkedin.com/in/kirabo-ibrahim-b141121b5)
+
 [HackerRank](https://www.hackerrank.com/kiraboibra268)
 
 ## Contributions
