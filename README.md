@@ -1,18 +1,18 @@
-## Hello there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/> Iam Kirabo Ibrahim.
+## Hello there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/> I am Kirabo Ibrahim.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7GpiJctKI8e7PILjgdmjqpCJJ9l_fj5caHg&usqp=CAU" alt="developer" />
+<img src="https://drive.google.com/file/d/1YCwRqa-Zq_7AHUkDxhOY4FX-E281HWPN/view?usp=sharing" alt="Header Image" />
 
 I started to learn coding in 2017 (high school) and I was fascinated by the game mechanics and it all seemed like rocket science. But I didn't stop at wondering,
-luckily enough, I started learning python **(first book: Introduction to Python Programming by Brian Heinold)**. The self taught learning curve is quite steep for hobbysts like me, in that you tend to have large breadth but less depth. 
+luckily enough, I started learning python **(first book: Introduction to Python Programming by Brian Heinold)**. The self taught learning curve is quite steep for hobbysts like me, in that you tend to have wide breadth but less depth. 
 And that's one of the challenges I faced till today that I decided to specialize in Full Stack Development (Python Stack) and Linux System Administration.
 
 I am passionate about Linux and with all its transparency and simplicity, It is a perfect development environment.
 You can check out my projects, if any interests  you, don't forge to give a star.
 
-### Don't hesitate to fill me in about any of this:
+**Don't hesitate to fill me in about any of this:**
 
-* ![Linux](https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png) **Linux System Administration**
-* ![Web Development](https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png) **Full Stack Developer (python)**
+* <img src="https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png" width="20" height="20" alt="Linux"> **Linux System Administration**
+* <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Web Development"> **Full Stack Developer (python)**
 
 ## Languages and Tools <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Tools" />
 
