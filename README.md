@@ -39,6 +39,6 @@ Email: <kiraboibra268@gmail.com>
 
 > Stay hungry. Stay foolish. - **Steve Jobs**
 
-**By just reading my profile till this point, you have made feel that I am worthy of what I do, Thank you very much.**
+**By just reading my profile till this point, you have made feel that I am worthy your precious time, Thank you very much.**
 
 
