@@ -2,12 +2,13 @@
 
 <img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" width="800" height="300" alt="Header Image" />
 
-I started to learn coding in 2017 (high school) and what sparked my interests was the game mechanics I saw in games and it all seemed like rocket science. But I didn't stop at wondering,
-luckily enough, I started learning python **(first book: Introduction to Python Programming by Brian Heinold)**. The self taught learning curve is quite steep for hobbysts like me, in that you tend to have wide breadth but less depth. 
-And that's one of the challenges I faced till today that I decided to specialize in Full Stack Development (Python Stack) and Linux System Administration.
+As with every journey, you have to start from somewhere. And as for me, I am not that different from the rest of the coding hobbysts out there, its amusement, curiosity that edified the coding persona in me. When you walk the self taught path, you have to profoundly choose your learning resources or you might end up being lost in a maze of documents, videos, blog articles.
 
-I am passionate about Linux and with all its transparency and simplicity, It is a perfect development environment.
-You can check out my projects, if any interests  you, don't forge to give a star.
+I prefered documents to anything else, and I can precisely recall the first book I read about programming (**Introduction to python programming by Brian Heinold**). And as time went by, I profoundly chose web application development. I didn't just randomly choose, Its what I loved. Always do what you love and do it best.
+
+When I am not writing web applications, I am at the console reading some manual pages and probably punching in some commands at my console.
+
+You can check out my projects, if any interests  you, don't forget to give a star.
 
 **Don't hesitate to fill me in about any of this:**
 
@@ -36,8 +37,8 @@ Email: <kiraboibra268@gmail.com>
 
 ## Quote 
 
-> The only way to learn a new programming language is by writing programs in it. - **Dennis Ritchie**
+> Stay hungry. Stay foolish. - **Steve Jobs**
 
-**I am glad you read my profile till this point, Have a blessed day.**
+**By just reading my profile till this point, you have made feel that I am worthy of what I do, Thank you very much.**
 
 
