@@ -1,6 +1,6 @@
 ## Hello there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/> I am Kirabo Ibrahim.
 
-<img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" width="800" height="300" alt="Header Image" />
+<img src="https://ik.imagekit.io/8mch78q847k/KIRABO_sugGlEtav.png?ik-sdk-version=javascript-1.4.3&updatedAt=1650550068410" width="800" height="300" alt="Header Image" />
 
 As with every journey, you have to start from somewhere. And as for me, I am not that different from the rest of the coding hobbysts out there, its amusement, curiosity that edified the coding persona in me. When you walk the self taught path, you have to profoundly choose your learning resources or you might end up being lost in a maze of documents, videos, blog articles.
 
