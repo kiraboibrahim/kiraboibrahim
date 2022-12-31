@@ -2,7 +2,7 @@
 
 <img src="https://ik.imagekit.io/8mch78q847k/1172815-full-size-developer-wallpaper-hd-1980x1080-1080p_Hp_fWUFgZ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672473005649" width="800" height="300" alt="Header Image" />
 
-I am Kirabo Ibrahim, a software developer, an [author](https://iq.opengenus.org/author/kirabo/) at [OpenGenus](https://iq.opengenus.org/). I enjoy doing web development and Linux system administration.
+I am Kirabo Ibrahim, a software developer, an [author](https://iq.opengenus.org/author/kirabo/) at [OpenGenus](https://iq.opengenus.org/). I am passionate about wWb Application Development and Linux System Administration.
 
 # Languages and Tools <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Tools" />
 
