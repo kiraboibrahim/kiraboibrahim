@@ -1,6 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/>
 
-<img src="https://ik.imagekit.io/8mch78q847k/1172815-full-size-developer-wallpaper-hd-1980x1080-1080p_Hp_fWUFgZ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1672473005649" width="800" height="300" alt="Header Image" />
 
 I am Kirabo Ibrahim, a Software Developer, an [Author](https://iq.opengenus.org/author/kirabo/) at [OpenGenus](https://iq.opengenus.org/). I am passionate about Web Application Development and Linux System Administration.
 
