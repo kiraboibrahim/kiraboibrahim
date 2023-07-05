@@ -4,9 +4,13 @@
 I am Kirabo Ibrahim, a Software Developer, an [Author](https://iq.opengenus.org/author/kirabo/) at [OpenGenus](https://iq.opengenus.org/). I am passionate about Web Application Development and Linux System Administration.
 
 # Languages and Tools <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Tools" />
-
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+
+# Certificates
+![Certified Linux System Administrator](https://ik.imagekit.io/8mch78q847k/LFCS-1_p7phnqyZt.png?updatedAt=1688545361981)
+
+![Professional C programmer](https://ik.imagekit.io/8mch78q847k/Professional_Certificate__C-1_Z7xuFcwA5.png?updatedAt=1688545370011)
 
 # Get in touch
 
