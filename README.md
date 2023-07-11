@@ -1,9 +1,14 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/>
 
 
-I am Kirabo Ibrahim, a Software Developer, an [Author](https://iq.opengenus.org/author/kirabo/) at [OpenGenus](https://iq.opengenus.org/). I am passionate about Web Application Development and Linux System Administration.
+I am Kirabo Ibrahim, a software developer, an [author](https://iq.opengenus.org/author/kirabo/) at [OpenGenus](https://iq.opengenus.org/) and currently pursuing a bachelors degree in Information Technology.
 
-# Languages and Tools <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Tools" />
+My role is to make a world a better place by building positively impactful solutions to the problems faced by people. When I am not saving the world, I am learning something new on the command line.
+
+# Tools <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Tools" />
+
+Who is Batman without his costume?, He is Bruce Wayne.
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
