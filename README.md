@@ -7,7 +7,7 @@
 
 # Kirabo Ibrahim
 
-I go by **Harmless**. It's a nickname, not a company.
+I go by **Harmless**. The name was chosen before I learned `rm -rf`.
 
 Freelance full-stack developer in Kampala, Uganda. I build web and mobile apps with Django, Next.js and Flutter, and I teach ethical hacking.
 
