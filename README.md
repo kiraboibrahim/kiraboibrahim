@@ -7,6 +7,8 @@
 
 # Kirabo Ibrahim
 
+I go by **Harmless**. It's a nickname, not a company.
+
 Freelance full-stack developer in Kampala, Uganda. I build web and mobile apps with Django, Next.js and Flutter, and I teach ethical hacking.
 
 I also write about algorithms and systems at [OpenGenus](https://iq.opengenus.org/author/kirabo/), and I'm finishing a Bachelor of Information Technology at the Islamic University in Uganda.
@@ -16,7 +18,7 @@ I also write about algorithms and systems at [OpenGenus](https://iq.opengenus.or
 - **[VigilGuard](https://vigilgaurd.kiraboibrahim.online)**: GPS and checkpoint-based monitoring for security guards. Flutter app with a Django backend.
 - **[TitlePliz](https://titlepliz.kiraboibrahim.online)**: a community platform for identifying movies from scenes.
 - **[pesapal-client](https://github.com/kiraboibrahim/pesapal-client)**: a typed Python client for the Pesapal payments API, with sync and async support, order submission, IPN management and subscriptions.
-- **Django cookiecutter template**: my starting point for new Django projects.
+- **[cookiecutter-django-lean](https://github.com/kiraboibrahim/cookiecutter-django-lean)**: a Django 5.2 project template that keeps Django's default layout and adds production tooling, with optional DRF, Docker, PostgreSQL and background tasks.
 
 ## Stack
 
