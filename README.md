@@ -1,30 +1,46 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiraboibrahim/kiraboibrahim/main/assets/harmless-dark.gif">
+    <img src="https://raw.githubusercontent.com/kiraboibrahim/kiraboibrahim/main/assets/harmless-light.gif" alt="Harmless" width="480">
+  </picture>
+</p>
 
+# Kirabo Ibrahim
 
-I am Kirabo Ibrahim, a software developer, an [author](https://iq.opengenus.org/author/kirabo/) at [OpenGenus](https://iq.opengenus.org/) and currently pursuing a bachelors degree in Information Technology.
+Freelance full-stack developer in Kampala, Uganda. I build web and mobile apps with Django, Next.js and Flutter, and I teach ethical hacking.
 
-My role is to make a world a better place by building positively impactful solutions to the problems faced by people. When I am not saving the world, I am learning something new on the command line.
+I also write about algorithms and systems at [OpenGenus](https://iq.opengenus.org/author/kirabo/), and I'm finishing a Bachelor of Information Technology at the Islamic University in Uganda.
 
-# Tools <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Tools" />
+## Projects
 
-Who is Batman without his costume?, He is Bruce Wayne.
+- **[VigilGuard](https://vigilgaurd.kiraboibrahim.online)**: GPS and checkpoint-based monitoring for security guards. Flutter app with a Django backend.
+- **[TitlePliz](https://titlepliz.kiraboibrahim.online)**: a community platform for identifying movies from scenes.
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+## Stack
 
-# Certificates
-![Certified Linux System Administrator](https://ik.imagekit.io/8mch78q847k/LFCS-1_p7phnqyZt.png?updatedAt=1688545361981)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![Professional C programmer](https://ik.imagekit.io/8mch78q847k/Professional_Certificate__C-1_Z7xuFcwA5.png?updatedAt=1688545370011)
+## Security
 
-# Get in touch
+I run an ethical hacking group and teach a bootcamp covering Linux operations, cryptography, web exploitation, OSINT, and reverse engineering.
 
-[LinkedIn](https://www.linkedin.com/in/kirabo-ibrahim-b141121b5)
+## Certificates
 
-# Contributions
+- [Linux Foundation Certified System Administrator (LFCS)](https://ik.imagekit.io/8mch78q847k/LFCS-1_p7phnqyZt.png?updatedAt=1688545361981)
+- [Professional Certificate in C Programming](https://ik.imagekit.io/8mch78q847k/Professional_Certificate__C-1_Z7xuFcwA5.png?updatedAt=1688545370011)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kiraboibrahim&count_private=true&theme=react&showicons=true)]()
+## Contact
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraboibrahim&langs_count=5&theme=react)]()
+Open to freelance work. Reach me on [LinkedIn](https://www.linkedin.com/in/kirabo-ibrahim-b141121b5).
 
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kiraboibrahim)](https://github.com/kiraboibrahim/github-contribution-stats/)
+## Activity
+
+![Contribution stats](https://github-contribution-stats.vercel.app/api/?username=kiraboibrahim)
