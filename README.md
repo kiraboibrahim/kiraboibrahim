@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiraboibrahim/kiraboibrahim/main/assets/harmless-dark.gif">
-    <img src="https://raw.githubusercontent.com/kiraboibrahim/kiraboibrahim/main/assets/harmless-light.gif" alt="Harmless" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiraboibrahim/kiraboibrahim/main/assets/harmless-flip-dark.gif">
+    <img src="https://raw.githubusercontent.com/kiraboibrahim/kiraboibrahim/main/assets/harmless-flip-light.gif" alt="Harmless" width="480">
   </picture>
 </p>
 
@@ -15,6 +15,8 @@ I also write about algorithms and systems at [OpenGenus](https://iq.opengenus.or
 
 - **[VigilGuard](https://vigilgaurd.kiraboibrahim.online)**: GPS and checkpoint-based monitoring for security guards. Flutter app with a Django backend.
 - **[TitlePliz](https://titlepliz.kiraboibrahim.online)**: a community platform for identifying movies from scenes.
+- **[pesapal-client](https://github.com/kiraboibrahim/pesapal-client)**: a typed Python client for the Pesapal payments API, with sync and async support, order submission, IPN management and subscriptions.
+- **Django cookiecutter template**: my starting point for new Django projects.
 
 ## Stack
 
